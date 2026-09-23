@@ -6,7 +6,7 @@ Several regression models were evaluated during the project. Random Forest was s
 
 ## 🚀 Live Demo
 
-http://localhost:8501/
+https://srikrishna2003-cloud-laptop-price-predictor-app-92t5md.streamlit.app/
 
 
 ## 📌 Problem Statement
