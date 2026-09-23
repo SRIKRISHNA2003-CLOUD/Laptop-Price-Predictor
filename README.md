@@ -240,9 +240,9 @@ Add screenshots of:
 
 Example:
 
-```text
-![Laptop Price Predictor](screenshots/home.png)
-```
+1.Screenshot1.png
+2.Screenshot1.png
+3.Screenshot2.png
 
 ---
 
