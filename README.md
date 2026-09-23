@@ -238,11 +238,15 @@ Add screenshots of:
 2. Laptop specification inputs
 3. Prediction result
 
-Example:
 
-1.Screenshot1.png
-2.Screenshot1.png
-3.Screenshot2.png
+### Home Page
+![Laptop Predictor Home Page](screenshots/home.png)
+
+### Input Configuration
+![Laptop Predictor Input](screenshots/home.png)
+
+### Prediction Result
+![Laptop Price Prediction](screenshots/prediction.png)
 
 ---
 
