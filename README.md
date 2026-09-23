@@ -6,9 +6,8 @@ Several regression models were evaluated during the project. Random Forest was s
 
 ## 🚀 Live Demo
 
-**Coming soon:** [Streamlit Community Cloud deployment link]
+http://localhost:8501/
 
----
 
 ## 📌 Problem Statement
 
