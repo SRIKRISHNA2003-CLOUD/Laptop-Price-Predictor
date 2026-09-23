@@ -240,13 +240,13 @@ Add screenshots of:
 
 
 ### Home Page
-![Laptop Predictor Home Page](screenshots/home.png)
+![Laptop Predictor Home Page](screenshot/home.png)
 
 ### Input Configuration
-![Laptop Predictor Input](screenshots/home.png)
+![Laptop Predictor Input](screenshot/home.png)
 
 ### Prediction Result
-![Laptop Price Prediction](screenshots/prediction.png)
+![Laptop Price Prediction](screenshot/prediction.png)
 
 ---
 
